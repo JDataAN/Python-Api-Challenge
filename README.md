@@ -1,6 +1,7 @@
 # Python-Api-Challenge
 
-Have you ever wondered how the weather changes as you travel the globe? Or dreamed of the perfect vacation getaway with ideal weather conditions?This repository contains Python code to analyze weather data and plan a vacation based on weather preferences.
+Have you ever wondered how the weather changes as you travel the globe? Or dreamed of the perfect vacation getaway with ideal weather conditions?
+This repository contains Python code to analyze weather data and plan a vacation based on weather preferences.
 
 Part 1: "WeatherPy"
 
